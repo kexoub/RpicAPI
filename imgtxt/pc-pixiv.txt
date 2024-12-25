@@ -34,3 +34,6 @@ https://rpic.origz.com/pc/pixiv/33.png
 https://rpic.origz.com/pc/pixiv/34.png
 https://rpic.origz.com/pc/pixiv/35.png
 https://rpic.origz.com/pc/pixiv/36.png
+https://cdn.jsdelivr.net/gh/kexoub/picx-images-hosting@master/1000388493.6t74ceufo4.jpg
+https://cdn.jsdelivr.net/gh/kexoub/picx-images-hosting@master/1000388492.67xgq3zzfk.jpg
+https://cdn.jsdelivr.net/gh/kexoub/picx-images-hosting@master/1000388490.4ckvxhnjwp.jpg
